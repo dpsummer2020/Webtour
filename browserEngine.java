@@ -11,6 +11,7 @@ public class browserEngine {
 	// This is the WebDriver object created by Selenium
 public static WebDriver driver;
 	
+//This is my send 
 	public static WebDriver getBrowser(String browserType) {
 		switch (browserType) {
 		case "firefox":
