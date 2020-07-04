@@ -8,7 +8,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 
 public class browserEngine {
 
-	
+	// This is the WebDriver object created by Selenium
 public static WebDriver driver;
 	
 	public static WebDriver getBrowser(String browserType) {
